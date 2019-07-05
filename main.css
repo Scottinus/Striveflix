@@ -30,10 +30,11 @@ width: 100%;
 .h-size{
     height: 160px;
 }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 600px) {
 
     .h-size{
-
+       
+        
         
     }
     .nav-link{
